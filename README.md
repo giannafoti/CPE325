@@ -17,7 +17,7 @@ The University of Alabama in Huntsville - Fall 2024
 - **Lab 08**:   
 - **Lab 09**:   
 - **Lab 10**:   
-- **Lab 11**:
+- **Lab 11**: AVAILABLE
 - **Final Project**: AVAILABLE
 
 ---
