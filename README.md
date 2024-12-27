@@ -14,7 +14,7 @@ The University of Alabama in Huntsville - Fall 2024
 - **Lab 05**: AVAILABLE
 - **Lab 06**: AVAILABLE  
 - **Lab 07**: AVAILABLE  
-- **Lab 08**:   
+- **Lab 08**: MISSING PART 2 SOURCE CODE
 - **Lab 09**:   
 - **Lab 10**:   
 - **Lab 11**: AVAILABLE
