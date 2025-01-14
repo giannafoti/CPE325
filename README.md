@@ -7,8 +7,8 @@ The University of Alabama in Huntsville - Fall 2024
 
 ## Labs 
 
-- **Lab 01**:   
-- **Lab 02**:  
+- **Lab 01**: AVAILABLE
+- **Lab 02**: AVAILABLE
 - **Lab 03**: AVAILABLE 
 - **Lab 04**:   
 - **Lab 05**: AVAILABLE
